@@ -240,6 +240,10 @@ static const struct rte_pci_id pci_id_cuda_map[] = {
 				NVIDIA_GPU_T4)
 	},
 	{
+		RTE_PCI_DEVICE(NVIDIA_GPU_VENDOR_ID,
+				NVIDIA_GPU_L4)
+	},
+	{
 		.device_id = 0
 	}
 };

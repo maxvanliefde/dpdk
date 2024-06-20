@@ -64,5 +64,6 @@
 
 #define NVIDIA_GPU_T4G (0x1eb4)
 #define NVIDIA_GPU_T4 (0x1eb8)
+#define NVIDIA_GPU_L4 (0x27b8)
 
 #endif /* CUDA_DEVICES_H */
